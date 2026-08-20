@@ -5,7 +5,7 @@ Data Analyse du DataSet "IBM HR Analytics Employee Attrition &amp; Performance".
 
 **Background**
 
-L’attrition est un phénomène observé important au sein des entreprises, et il essentiels pour les Ressources Humaines (RH) de le comprendre. 
+L’attrition est un phénomène observé important au sein des entreprises, et il essentiel pour les Ressources Humaines (RH) de le comprendre. 
 
 Ce phénomène peut se définir comme “le processus naturel de réduction progressive des effectifs d’une entreprise lorsque des employés quittent leurs postes”. Ainsi, les départs concernés par l’attrition peuvent être : 
 
