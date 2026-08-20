@@ -1,3 +1,0 @@
-Dans le cadre de cette analyse, les packages suivants sont nécessaires : 
-
-pandas, numpy, matplotlib, seaborn, scipy, itertools
