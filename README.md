@@ -33,4 +33,32 @@ Au départ de cette analyse, nous partons du postulat que l’attrition est pote
 
 **Dataset**
 
-Nous analyserons des données provenant de IBM, en utilisant Python.
+Nous analyserons des données provenant de IBM (Dataset Public de Kaggle), en utilisant Python.
+
+**Résultats clés**
+
+Notre analyse a identifiée **6 valeurs clés** telle que : 
+
+* Le taux horaire journalier
+
+* Le département dans lequel travaille le salarié
+
+* La satisfaction au travail et dans l'environnement de travail
+
+* La distance entre le domicile et le lieu de travail
+
+* L'investissement des salariés
+
+* Le salaire
+
+**Recommandations à destination des RH**
+
+Notre analyse nous permet de formuler des recommandations précises afin de limiter l'attrition au sein de l'entreprise : 
+
+* Ajuster les salaires de départs afin de lisser l'impact de l'ancienneté 
+
+* Proposer une aide financière ou en nature pour compenser l'impact de la distance parcourue pour aller aux bureaux, notamment pour les salariés réalisant **au moins 20km**
+
+* Proposer des éléments favorisant l'appréciation de l'environnement de travail 
+
+* Suivre attentivement les paramètres des salariés ayant moins de 5 ans d'ancieneté dans la société, car ce sont eux les plus à risque de partir.
